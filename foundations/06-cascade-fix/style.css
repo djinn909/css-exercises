@@ -6,7 +6,7 @@
   font-size: 22px;
 }
 .small-para {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .button {
@@ -18,11 +18,18 @@
 .confirm {
   background: green;
   color: white;
-  font-size: 20px;
   font-weight: bold;
 } 
 
+<<<<<<< HEAD
 
+=======
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+>>>>>>> 6ee2bef7b12232de7e908552d79e1ebb938e5c59
 
 .child {
   color: red;
@@ -31,5 +38,5 @@
 
 div.text {
   color: green;
-  font-size: 28px;
+  font-size: 22px;
 }
